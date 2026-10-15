@@ -1,0 +1,9 @@
+t,type,details
+273484.9863,swing_seen,"{""kind"": ""flat"", ""conf"": 0.999, ""power"": 0.701, ""peak"": 963.6, ""age"": 0.415}"
+273485.1341,level,"{""level"": 3, ""name"": ""hard""}"
+273485.5904,swing_seen,"{""kind"": ""forehand"", ""conf"": 0.921, ""power"": 0.136, ""peak"": 453.0, ""age"": 0.299}"
+273488.9023,swing_seen,"{""kind"": ""backhand"", ""conf"": 0.99, ""power"": 0.663, ""peak"": 929.0, ""age"": 0.251}"
+273491.7871,swing_seen,"{""kind"": ""flat"", ""conf"": 1.0, ""power"": 0.698, ""peak"": 961.4, ""age"": 0.314}"
+273492.5530,start,"{""level"": 3}"
+273492.5940,pose_lost,{}
+273493.4604,swing_seen,"{""kind"": ""flat"", ""conf"": 1.0, ""power"": 1.0, ""peak"": 1318.7, ""age"": 0.368}"

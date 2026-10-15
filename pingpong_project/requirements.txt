@@ -1,0 +1,7 @@
+numpy
+opencv-contrib-python   # (or opencv-python >= 4.7: both include the AprilTag/ArUco detector)
+mediapipe               # pose (Tasks API, as in HW1)
+pillow                  # make_cards.py writes cards.pdf
+paho-mqtt
+legoeducation           # the hub (pingpong_live.py, imu_recorder.py, swing_check.py, swing_live.py)
+scikit-learn     # only needed to retrain the swing classifier (train_swing_classifier.py)

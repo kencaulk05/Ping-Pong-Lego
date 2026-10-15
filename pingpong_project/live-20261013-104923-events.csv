@@ -1,0 +1,118 @@
+t,type,details
+272971.9378,start,"{""level"": 1}"
+272971.9848,countdown,"{""n"": 3}"
+272972.9493,countdown,"{""n"": 2}"
+272973.9926,countdown,"{""n"": 1}"
+272974.9610,serve,"{""zone"": 0, ""fast"": false, ""T"": 2.4}"
+272977.6369,swing_seen,"{""kind"": ""flat"", ""conf"": 1.0, ""power"": 1.0, ""peak"": 1561.1, ""age"": 0.215}"
+272977.6369,swing_timing,"{""offset"": 0.034}"
+272977.6369,hit,"{""kind"": ""flat"", ""power"": 1.0, ""accuracy"": 0.42067756829689973, ""target"": 0.18872910946928617, ""T"": 0.6, ""streak"": 1}"
+272977.6369,record,"{""best"": 1}"
+272978.2911,winner,"{""streak"": 1}"
+272979.5653,serve,"{""zone"": 0, ""fast"": false, ""T"": 2.4}"
+272982.1121,swing_seen,"{""kind"": ""backhand"", ""conf"": 1.0, ""power"": 1.0, ""peak"": 1713.9, ""age"": 0.22}"
+272982.1121,swing_timing,"{""offset"": -0.073}"
+272982.1121,hit,"{""kind"": ""backhand"", ""power"": 1.0, ""accuracy"": 0.2218804741900725, ""target"": 0.49922675207130973, ""T"": 0.6, ""streak"": 2}"
+272982.1121,record,"{""best"": 2}"
+272982.7435,opp_return,"{""streak"": 2}"
+272982.7435,incoming,"{""zone"": 2, ""fast"": false, ""T"": 2.4}"
+272985.1090,swing_seen,"{""kind"": ""backhand"", ""conf"": 1.0, ""power"": 1.0, ""peak"": 1712.3, ""age"": 0.247}"
+272985.1090,swing_timing,"{""offset"": -0.282}"
+272985.1090,hit,"{""kind"": ""backhand"", ""power"": 1.0, ""accuracy"": 0.5879444420869944, ""target"": 0.7546277397211998, ""T"": 0.6, ""streak"": 3}"
+272985.1090,record,"{""best"": 3}"
+272985.9435,opp_return,"{""streak"": 3}"
+272985.9435,incoming,"{""zone"": 4, ""fast"": false, ""T"": 2.4}"
+272989.8873,swing_seen,"{""kind"": ""backhand"", ""conf"": 1.0, ""power"": 1.0, ""peak"": 1776.6, ""age"": 1.186}"
+272989.8873,swing_timing,"{""offset"": -2.126}"
+272989.8873,whiff,"{""reason"": ""too early"", ""kind"": ""backhand""}"
+272990.8190,swing_seen,"{""kind"": ""backhand"", ""conf"": 1.0, ""power"": 1.0, ""peak"": 2006.8, ""age"": 0.227}"
+272990.8190,swing_timing,"{""offset"": -0.235}"
+272990.8190,hit,"{""kind"": ""backhand"", ""power"": 1.0, ""accuracy"": 0.3113229373278087, ""target"": 0.95, ""T"": 0.6, ""streak"": 4}"
+272990.8190,record,"{""best"": 4}"
+272991.1711,swing_seen,"{""kind"": ""flat"", ""conf"": 1.0, ""power"": 0.596, ""peak"": 1260.6, ""age"": 0.248}"
+272991.4362,opp_return,"{""streak"": 4}"
+272991.4362,incoming,"{""zone"": 3, ""fast"": false, ""T"": 2.4}"
+272994.1495,swing_seen,"{""kind"": ""backhand"", ""conf"": 1.0, ""power"": 0.999, ""peak"": 2001.2, ""age"": 0.256}"
+272994.1495,swing_timing,"{""offset"": 0.057}"
+272994.1495,hit,"{""kind"": ""backhand"", ""power"": 0.998677177886674, ""accuracy"": 0.26894109322615056, ""target"": 0.95, ""T"": 0.6011905399019934, ""streak"": 5}"
+272994.1495,record,"{""best"": 5}"
+272994.7924,opp_return,"{""streak"": 5}"
+272994.7924,incoming,"{""zone"": 2, ""fast"": false, ""T"": 2.4}"
+272997.5455,swing_seen,"{""kind"": ""forehand"", ""conf"": 1.0, ""power"": 0.888, ""peak"": 1815.0, ""age"": 0.233}"
+272997.5455,swing_timing,"{""offset"": 0.12}"
+272997.5455,hit,"{""kind"": ""forehand"", ""power"": 0.8876710770501898, ""accuracy"": 0.6227754325568788, ""target"": 0.28073033247202006, ""T"": 0.7010960306548292, ""streak"": 6}"
+272997.5455,record,"{""best"": 6}"
+272998.3723,winner,"{""streak"": 6}"
+272999.5775,serve,"{""zone"": 3, ""fast"": false, ""T"": 2.4}"
+273002.0398,swing_seen,"{""kind"": ""forehand"", ""conf"": 1.0, ""power"": 0.916, ""peak"": 1861.9, ""age"": 0.228}"
+273002.0398,swing_timing,"{""offset"": -0.165}"
+273002.0398,hit,"{""kind"": ""forehand"", ""power"": 0.9160445896994432, ""accuracy"": 0.16033005147732315, ""target"": 0.37118114491681053, ""T"": 0.675559869270501, ""streak"": 7}"
+273002.0398,record,"{""best"": 7}"
+273002.7454,opp_return,"{""streak"": 7}"
+273002.7454,incoming,"{""zone"": 2, ""fast"": false, ""T"": 2.4}"
+273005.1466,swing_seen,"{""kind"": ""backhand"", ""conf"": 1.0, ""power"": 0.96, ""peak"": 1935.4, ""age"": 0.244}"
+273005.1466,swing_timing,"{""offset"": -0.243}"
+273005.1466,hit,"{""kind"": ""backhand"", ""power"": 0.960263458548026, ""accuracy"": 0.6900709804231996, ""target"": 0.7328702219657685, ""T"": 0.6357628873067767, ""streak"": 8}"
+273005.1466,record,"{""best"": 8}"
+273005.7890,opp_return,"{""streak"": 8}"
+273005.7890,incoming,"{""zone"": 3, ""fast"": false, ""T"": 2.4}"
+273008.2973,swing_seen,"{""kind"": ""forehand"", ""conf"": 1.0, ""power"": 1.0, ""peak"": 2011.7, ""age"": 0.244}"
+273008.2973,swing_timing,"{""offset"": -0.135}"
+273008.2973,hit,"{""kind"": ""forehand"", ""power"": 1.0, ""accuracy"": 0.6418675126715578, ""target"": 0.5073609771816789, ""T"": 0.6, ""streak"": 9}"
+273008.2973,record,"{""best"": 9}"
+273008.9130,opp_return,"{""streak"": 9}"
+273008.9130,incoming,"{""zone"": 2, ""fast"": false, ""T"": 2.4}"
+273011.1777,swing_seen,"{""kind"": ""forehand"", ""conf"": 1.0, ""power"": 0.835, ""peak"": 1729.9, ""age"": 0.241}"
+273011.1777,swing_timing,"{""offset"": -0.376}"
+273011.1777,whiff,"{""reason"": ""too early"", ""kind"": ""forehand""}"
+273011.9342,miss,"{""reason"": ""too early"", ""lost"": 9}"
+273012.1426,swing_seen,"{""kind"": ""flat"", ""conf"": 1.0, ""power"": 0.588, ""peak"": 1315.8, ""age"": 0.22}"
+273013.5724,serve,"{""zone"": 0, ""fast"": false, ""T"": 2.4}"
+273016.5019,swing_seen,"{""kind"": ""backhand"", ""conf"": 1.0, ""power"": 0.595, ""peak"": 1326.6, ""age"": 0.229}"
+273016.5019,swing_timing,"{""offset"": 0.3}"
+273016.5019,whiff,"{""reason"": ""too late"", ""kind"": ""backhand""}"
+273016.5825,miss,"{""reason"": ""no swing"", ""lost"": 0}"
+273018.1869,serve,"{""zone"": 0, ""fast"": false, ""T"": 2.4}"
+273021.5203,swing_seen,"{""kind"": ""backhand"", ""conf"": 1.0, ""power"": 0.993, ""peak"": 1993.4, ""age"": 0.238}"
+273021.5203,swing_timing,"{""offset"": 0.328}"
+273021.5203,whiff,"{""reason"": ""too late"", ""kind"": ""backhand""}"
+273021.5668,miss,"{""reason"": ""no swing"", ""lost"": 0}"
+273025.4910,serve,"{""zone"": 3, ""fast"": false, ""T"": 2.4}"
+273027.3802,pose_lost,{}
+273027.7402,swing_seen,"{""kind"": ""backhand"", ""conf"": 1.0, ""power"": 0.719, ""peak"": 1533.4, ""age"": 0.219}"
+273028.0993,swing_seen,"{""kind"": ""flat"", ""conf"": 0.999, ""power"": 0.45, ""peak"": 1083.2, ""age"": 0.217}"
+273028.5230,pose_back,{}
+273029.0281,pose_lost,{}
+273029.6011,swing_seen,"{""kind"": ""backhand"", ""conf"": 1.0, ""power"": 0.682, ""peak"": 1471.0, ""age"": 0.219}"
+273029.7889,pose_back,{}
+273030.4236,miss,"{""reason"": ""no swing"", ""lost"": 0}"
+273032.0466,serve,"{""zone"": 0, ""fast"": false, ""T"": 2.4}"
+273035.0549,miss,"{""reason"": ""no swing"", ""lost"": 0}"
+273035.0984,swing_seen,"{""kind"": ""forehand"", ""conf"": 1.0, ""power"": 0.503, ""peak"": 1171.4, ""age"": 0.256}"
+273035.2989,swing_seen,"{""kind"": ""forehand"", ""conf"": 1.0, ""power"": 0.259, ""peak"": 763.3, ""age"": 0.247}"
+273036.5082,swing_seen,"{""kind"": ""flat"", ""conf"": 0.989, ""power"": 0.208, ""peak"": 678.0, ""age"": 0.226}"
+273036.6863,serve,"{""zone"": 0, ""fast"": false, ""T"": 2.4}"
+273036.9894,pose_lost,{}
+273037.5692,pose_back,{}
+273038.4358,pose_lost,{}
+273042.7236,pose_back,{}
+273044.1058,pose_lost,{}
+273045.4413,pose_back,{}
+273045.9301,miss,"{""reason"": ""no swing"", ""lost"": 0}"
+273046.6520,pose_lost,{}
+273048.0816,pose_back,{}
+273048.5642,pose_lost,{}
+273048.5994,pose_back,{}
+273049.0030,serve,"{""zone"": 3, ""fast"": false, ""T"": 2.4}"
+273050.8645,pose_lost,{}
+273050.9358,pose_back,{}
+273051.2697,pose_lost,{}
+273051.4205,pose_back,{}
+273051.7028,pose_lost,{}
+273052.2912,pose_back,{}
+273052.8492,miss,"{""reason"": ""no swing"", ""lost"": 0}"
+273053.6801,pose_lost,{}
+273053.7532,pose_back,{}
+273054.5031,serve,"{""zone"": 0, ""fast"": false, ""T"": 2.4}"
+273054.9963,pose_lost,{}
+273055.4412,pose_back,{}
